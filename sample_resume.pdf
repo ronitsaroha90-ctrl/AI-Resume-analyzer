@@ -1,0 +1,64 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1275 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(AARAV SHARMA) Tj
+T* (Computer Science Student) Tj
+T* (Email: aarav.sharma@example.com | GitHub: github.com/aaravsharma) Tj
+T* () Tj
+T* (SUMMARY) Tj
+T* (Second-year Computer Science student interested in backend development, data analysis, and practical machine learning projects.) Tj
+T* () Tj
+T* (EDUCATION) Tj
+T* (B.Tech in Computer Science, City Engineering College) Tj
+T* (CGPA: 8.5/10) Tj
+T* (Relevant Coursework: Data Structures, OOP, Database Systems, Statistics) Tj
+T* () Tj
+T* (TECHNICAL SKILLS) Tj
+T* (Python, SQL, Git, GitHub, OOP, Data Structures, Algorithms, Flask, Pandas, NumPy, Matplotlib, HTML, CSS, JavaScript, Linux) Tj
+T* () Tj
+T* (PROJECTS) Tj
+T* (AI Resume Analyzer) Tj
+T* (Built a Python application using TF-IDF and cosine similarity to compare resumes with job descriptions and generate improvement suggestions.) Tj
+T* () Tj
+T* (Student Result Dashboard) Tj
+T* (Developed a Streamlit dashboard to visualize student marks, attendance, and subject-wise performance using Pandas and Matplotlib.) Tj
+T* () Tj
+T* (EXPERIENCE) Tj
+T* (Coding Club Volunteer) Tj
+T* (Helped beginners debug Python programs and explained OOP basics.) Tj
+T* () Tj
+T* (ACHIEVEMENTS) Tj
+T* (Solved 150+ programming problems on coding platforms.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1638
+%%EOF

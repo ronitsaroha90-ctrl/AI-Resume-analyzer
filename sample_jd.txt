@@ -1,0 +1,14 @@
+Software Engineering Intern
+
+We are looking for a motivated Computer Science student with strong Python
+programming skills and understanding of object-oriented programming. The intern
+will work on backend APIs, SQL queries, Git workflows, and data-driven features.
+
+Required Skills:
+Python, SQL, Git, OOP, REST APIs, Flask or Django, Data Structures, Algorithms,
+unit testing, basic cloud knowledge, Docker basics.
+
+Responsibilities:
+Build clean backend modules, write readable code, test features, document
+project decisions, and collaborate with senior engineers.
+

@@ -1,0 +1,28 @@
+AARAV SHARMA
+Computer Science Student
+Email: aarav.sharma@example.com | GitHub: github.com/aaravsharma
+
+SUMMARY
+Second-year Computer Science student interested in backend development, data analysis, and practical machine learning projects.
+
+EDUCATION
+B.Tech in Computer Science, City Engineering College
+CGPA: 8.5/10
+Relevant Coursework: Data Structures, OOP, Database Systems, Statistics
+
+TECHNICAL SKILLS
+Python, SQL, Git, GitHub, OOP, Data Structures, Algorithms, Flask, Pandas, NumPy, Matplotlib, HTML, CSS, JavaScript, Linux
+
+PROJECTS
+AI Resume Analyzer
+Built a Python application using TF-IDF and cosine similarity to compare resumes with job descriptions and generate improvement suggestions.
+
+Student Result Dashboard
+Developed a Streamlit dashboard to visualize student marks, attendance, and subject-wise performance using Pandas and Matplotlib.
+
+EXPERIENCE
+Coding Club Volunteer
+Helped beginners debug Python programs and explained OOP basics.
+
+ACHIEVEMENTS
+Solved 150+ programming problems on coding platforms.
